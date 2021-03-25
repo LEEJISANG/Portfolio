@@ -165,7 +165,7 @@ td .profile { padding-top: 0.5rem; }
 table thead th { border-bottom: none !important; }
 
 /* footer  */
-.social-title { padding: 0.625rem; font-size: 0.75rem; font-weight: 300; letter-spacing: 0; text-transform: uppercase; text-decoration: none; color: #3f4165; }
+.social-title { padding: 0.625rem; font-size: 0.75rem; font-weight: 300; letter-spacing: 0; text-transform: uppercase; text-decoration: none; color: #3f4165; margin: -3px;}
 .license-copy { margin-top: 1rem; margin-bottom: 1.25rem; font-size: 0.6rem; font-weight: 300; letter-spacing: 0.08rem; color: grey; text-align: center; text-transform: uppercase; }
 .license-copy a:hover { color: #ff3366c4; }
 footer a { font-size: 0.6rem; text-transform: uppercase; text-decoration: none; padding: 0.625rem; color: rgba(46, 47, 68, 0.637); }
