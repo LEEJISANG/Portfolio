@@ -152,10 +152,10 @@ td .profile { padding-top: 0.5rem; }
 #salary .no { color: orangered; }
 
 /* Contact */
-.contact-body { display: flex; flex-direction: column; align-items: center; justify-content: center; margin-left: 300px; width: 550px; height: 320px; border-radius: 10px; text-transform: uppercase; background: #ffffff; }
+.contact-body { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 550px; height: 320px; border-radius: 10px; text-transform: uppercase; background: #ffffff; }
 .contact-body h1 { font-size: 2.5rem; font-weight: 800; letter-spacing: 0.094rem; margin-bottom: 0; }
 .contact-body small { font-size: 0.7rem; font-weight: 800; letter-spacing: 0.219rem; color: #3f416567; }
-.contact-body img { width: 5.625rem; height: 5.625rem; border-radius: 50%; border: 0.188rem solid greenyellow; }
+.contact-body img { width: 5.625rem; height: 5.625rem; border-radius: 50%; border: 0.188rem solid #41464b; }
 .contact-body ul { padding-left: 0.25rem; margin-bottom: 0.25rem; font-weight: 300; }
 .contact-body ul li { font-size: 0.75rem; letter-spacing: 0; }
 .contact-body ul li strong { margin-left: 0.25rem; }
@@ -166,7 +166,6 @@ table thead th { border-bottom: none !important; }
 
 /* footer  */
 .social-title { padding: 0.625rem; font-size: 0.75rem; font-weight: 300; letter-spacing: 0; text-transform: uppercase; text-decoration: none; color: #3f4165; }
-.social-title:hover { padding: 5px 10px; font-weight: 500; border: 1px solid rgba(147, 33, 253, 0.17); border-style: solid none; color: rgb(147, 33, 253); }
 .license-copy { margin-top: 1rem; margin-bottom: 1.25rem; font-size: 0.6rem; font-weight: 300; letter-spacing: 0.08rem; color: grey; text-align: center; text-transform: uppercase; }
 .license-copy a:hover { color: #ff3366c4; }
 footer a { font-size: 0.6rem; text-transform: uppercase; text-decoration: none; padding: 0.625rem; color: rgba(46, 47, 68, 0.637); }
@@ -183,4 +182,3 @@ footer { flex-shrink: 0; }
 .btn:hover { background-position: right center; color: rgb(255, 255, 255); }
 .btn-3 { background-image: linear-gradient(to right, #84fab0 0%, #8fd3f4 51%, #84fab0 100%); }
 
-.backimg { height: 50rem; background-image: url(../../assets/img/jisang1.jpg); background-repeat: no-repeat; background-position: top; background-size: cover; }
