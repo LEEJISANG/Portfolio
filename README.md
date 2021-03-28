@@ -1,3 +1,3 @@
 # portfolio
 포트폴리오
-https://leejisang.github.io/portfolio/
+https://leejisang.github.io/Portfolio/
