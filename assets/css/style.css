@@ -5102,6 +5102,10 @@ textarea.form-control-lg {
   padding: 0.75rem;
 }
 
+.modal-body > img {
+	max-width: -webkit-fill-available;
+}
+
 .modal-open {
   overflow: hidden;
 }
@@ -5399,6 +5403,7 @@ textarea.form-control-lg {
     border-radius: 0;
   }
 }
+
 .tooltip {
   position: absolute;
   z-index: 1070;
