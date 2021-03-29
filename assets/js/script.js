@@ -123,4 +123,5 @@
 	      switchMode(useDarkMode === 'true');
 	    });
 	  }
+	  
 	})();
